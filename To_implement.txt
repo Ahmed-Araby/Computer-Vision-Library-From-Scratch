@@ -12,3 +12,9 @@ https://www.ipol.im/pub/art/2016/158/article_lr.pdf
 
 # SIFT 
 http://aishack.in/tutorials/implementing-sift-opencv/
+
+
+
+# ransac
+http://www.cs.tau.ac.il/~turkel/imagepapers/RANSAC4Dummies.pdf
+https://www.yanivresearch.info/writtenMaterial/RANSAC.pdf
